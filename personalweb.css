@@ -30,6 +30,7 @@ p {
   position: absolute;
   left: 10%;
   font-size: 100%;
+  text-align: center;
 }
 #resumeTab {
   border: none;
@@ -40,6 +41,7 @@ p {
   position: absolute;
   left: 30%;
   font-size: 100%;
+  text-align: center;
 }
 #projectsTab {
   border: none;
@@ -50,6 +52,7 @@ p {
   position: absolute;
   left: 50%;
   font-size: 100%;
+  text-align: center;
 }
 #contactTab {
   border: none;
@@ -60,6 +63,7 @@ p {
   position: absolute;
   left: 70%;
   font-size: 100%;
+  text-align: center;
 }
 #aboutTab:hover {
   background-color: white;
@@ -72,10 +76,4 @@ p {
 }
 #contactTab:hover {
   background-color: white;
-}
-.pagecontent {
-  color: black;
-  display: none;
-  height: 100%;
-
 }
