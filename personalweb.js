@@ -1,6 +1,10 @@
-//some help from w3schools
-function openPage(element) {
-  var id = getElementById;
-  
+
+var aboutTab = document.getElementById('aboutTab');
+var resumeTab = document.getElementById('resumeTab');
+var projectTab = document.getElementById('projectsTab');
+var contactTab = document.getElementById('contactTab');
+
+function openPage() {
+  document.location.href = "about.html";
 
 }

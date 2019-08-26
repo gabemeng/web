@@ -9,6 +9,12 @@ h1 {
   font-family: 'Raleway', sans-serif;
   padding-bottom: 1%;
 }
+h2 {
+  color: black;
+  text-align: center;
+  font-family: 'Raleway' , sans-serif;
+  padding-top: 1%;
+}
 p {
   color: black;
   text-align: center;
@@ -32,6 +38,18 @@ p {
   font-size: 100%;
   text-align: center;
 }
+#aboutTabClicked {
+  border: none;
+  outline: none;
+  background-color: LightSeaGreen;
+  font-family: 'Raleway' , sans-serif;
+  color: white;
+  width: 20%;
+  position: absolute;
+  left: 10%;
+  font-size: 100%;
+  text-align: center;
+}
 #resumeTab {
   border: none;
   outline: none;
@@ -40,6 +58,18 @@ p {
   width: 20%;
   position: absolute;
   left: 30%;
+  font-size: 100%;
+  text-align: center;
+}
+#resumeTabClicked {
+  border: none;
+  outline: none;
+  background-color: LightSeaGreen;
+  font-family: 'Raleway' , sans-serif;
+  color: white;
+  width: 20%;
+  position: absolute;
+  left: 10%;
   font-size: 100%;
   text-align: center;
 }
@@ -54,6 +84,18 @@ p {
   font-size: 100%;
   text-align: center;
 }
+#projectsTabClicked {
+  border: none;
+  outline: none;
+  background-color: LightSeaGreen;
+  font-family: 'Raleway' , sans-serif;
+  color: white;
+  width: 20%;
+  position: absolute;
+  left: 10%;
+  font-size: 100%;
+  text-align: center;
+}
 #contactTab {
   border: none;
   outline: none;
@@ -62,6 +104,18 @@ p {
   width: 20%;
   position: absolute;
   left: 70%;
+  font-size: 100%;
+  text-align: center;
+}
+#contactTabClicked {
+  border: none;
+  outline: none;
+  background-color: LightSeaGreen;
+  font-family: 'Raleway' , sans-serif;
+  color: white;
+  width: 20%;
+  position: absolute;
+  left: 10%;
   font-size: 100%;
   text-align: center;
 }
