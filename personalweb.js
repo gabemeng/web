@@ -4,6 +4,7 @@ var resumeTab = document.getElementById('resumeTab');
 var projectTab = document.getElementById('projectsTab');
 var contactTab = document.getElementById('contactTab');
 var pic = document.getElementById('pic');
+var pic2 = document.getElementById('pic');
 
 function openPage(event) {
   //document.location.href = "about.html";
